@@ -3,4 +3,4 @@ resultado de ventas
 Resultados de gastos:
 resultados de gastos
 Ventas totales del mes:
-16.0
+4.0
